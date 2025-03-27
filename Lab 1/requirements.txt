@@ -1,6 +1,5 @@
 numpy==1.26.0
 tensorflow==2.18.0
-ffmpeg==1.4
 gym==0.25.2
 ipython==7.34.0
 matplotlib==3.10.0
