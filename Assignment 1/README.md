@@ -104,6 +104,5 @@ SC3000-Artificial-Intelligence/
 └── Assignment 1/
     ├── cartpole.ipynb         # Main notebook
     ├── requirements.txt       # Dependency list
-    ├── video                  # Video folder
-    └── .venv/                 # Virtual environment (ignored in .gitignore)
+    └── video                  # Video folder
 ```
