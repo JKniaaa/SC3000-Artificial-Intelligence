@@ -1,1 +1,1 @@
-# SC3000-Artificial-Intelligence
+# SC3000 - Artificial Intelligence
