@@ -4,7 +4,7 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JKniaaa/SC3000-Artificial-Intelligence/blob/main/Assignment%201/cartpole.ipynb)
 
-_Recommended for most users - runs in cloud with free GPU_
+_Recommended to open notebook in Google Collab as it runs in cloud with free GPU_
 
 _Alternatively, manually open or download [notebook](https://github.com/JKniaaa/SC3000-Artificial-Intelligence/blob/dev/Assignment%201/cartpole.ipynb) and run on Google Collab_
 
