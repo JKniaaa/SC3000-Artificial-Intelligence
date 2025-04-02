@@ -2,7 +2,7 @@
 
 ## 🚀 Quick Start
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JKniaaa/SC3000-Artificial-Intelligence/blob/dev/Assignment%201/cartpole.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JKniaaa/SC3000-Artificial-Intelligence/blob/main/Assignment%201/cartpole.ipynb)
 
 _Recommended for most users - runs in cloud with free GPU_
 
