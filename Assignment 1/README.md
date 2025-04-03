@@ -109,7 +109,7 @@ SC3000-Artificial-Intelligence/
 
 ---
 
-## References
+## 📚 References
 
 - [Q-Learning in Reinforcement Learning](https://www.geeksforgeeks.org/q-learning-in-python/)
 - [Introduction to OpenAI Gym (Gymnasium): Cart-Pole Environment - Reinforcement Learning Tutorial](https://www.youtube.com/watch?v=2sp_eucoX2I)
