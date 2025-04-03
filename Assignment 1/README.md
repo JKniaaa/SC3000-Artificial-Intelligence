@@ -106,3 +106,15 @@ SC3000-Artificial-Intelligence/
     ├── requirements.txt       # Dependency list
     └── video                  # Video folder
 ```
+
+---
+
+## References
+
+- [Q-Learning in Reinforcement Learning](https://www.geeksforgeeks.org/q-learning-in-python/)
+- [Introduction to OpenAI Gym (Gymnasium): Cart-Pole Environment - Reinforcement Learning Tutorial](https://www.youtube.com/watch?v=2sp_eucoX2I)
+- [Detailed Explanation and Python Implementation of Q-Learning Algorithm in OpenAI Gym (Cart-Pole)](https://www.youtube.com/watch?v=KMjQmG5Uzis)
+- [Q-Learning Tutorial in Python - Reinforcement Learning](https://www.youtube.com/watch?v=MSrfaI1gGjI)
+- [Q-learning - Explained!](https://www.youtube.com/watch?v=TiAXhVAZQl8)
+- Sample Codes from SC3000 Lab 1 Assignment Description
+
