@@ -116,5 +116,5 @@ SC3000-Artificial-Intelligence/
 - [Detailed Explanation and Python Implementation of Q-Learning Algorithm in OpenAI Gym (Cart-Pole)](https://www.youtube.com/watch?v=KMjQmG5Uzis)
 - [Q-Learning Tutorial in Python - Reinforcement Learning](https://www.youtube.com/watch?v=MSrfaI1gGjI)
 - [Q-learning - Explained!](https://www.youtube.com/watch?v=TiAXhVAZQl8)
-- Sample Codes from SC3000 Lab 1 Assignment Description
+- Sample Codes from SC3000 Lab Assignment 1 Description
 
